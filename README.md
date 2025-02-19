@@ -13,7 +13,7 @@ This project records speech from the microphone, processes it to extract the top
 
 2. Open a Command Prompt and navigate to the project directory:
     ```sh
-    cd /f:/Desktop/speech-to-wordcloud
+    cd ./speech-to-wordcloud
     ```
 
 3. Install the required Python packages using `pip`:
@@ -27,7 +27,7 @@ This project records speech from the microphone, processes it to extract the top
 
 1. Open a Command Prompt and navigate to the project directory:
     ```sh
-    cd /f:/Desktop/speech-to-wordcloud
+    cd ./speech-to-wordcloud
     ```
 
 2. Run the Python script:
